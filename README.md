@@ -10,7 +10,7 @@ SM961 256G SSD
 
 8 GB 2400 MHz DDR4 *2
 
-macOS 10.14.3 (18D42)![screenshot](![image.png])
+macOS 10.14.3 (18D42)![screenshot](image.png)
 
 ------
 
